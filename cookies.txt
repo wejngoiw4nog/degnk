@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+classsup.com	TRUE	/	FALSE	1999999999	login_id	deleted
+classsup.com	TRUE	/	FALSE	1999999999	db	ilxD22CvY8aim8K6t2X6C2k98WBmdZrWDVJHbIeRrHBXJWEo4Bv4OjhIO9fB2kLkUMuxltykVvs81kmxDusgrTJN51Hsux%2FzqlWBxRHCmMfQyS4ug6sWS2vHKLWG1L4y
+classsup.com	TRUE	/	FALSE	1999999999	googtrans	deleted
+classsup.com	TRUE	/	FALSE	1999999999	dgg_language	deleted
+classsup.com	TRUE	/	FALSE	1999999999	dgg_tab	deleted
+classsup.com	TRUE	/	FALSE	1999999999	dgg_default_language	Y
+tiktok.com	TRUE	/	FALSE	1999999999	_ttp	2jJXPDD17Hdz5VJT18Yrj1wqtxw
+analytics.tiktok.com	TRUE	/	FALSE	1999999999	SameSite	None
+.classsup.com	TRUE	/	FALSE	1999999999	member_param	type%3Dmynewmain
+.classsup.com	TRUE	/	FALSE	1999999999	tempid	f9288a11ce1c500b65541ffbdb28ac02
+.classsup.com	TRUE	/	FALSE	1999999999	basket_cnt	0
+classsup.com	TRUE	/	FALSE	1999999999	IS_SSL	deleted
+classsup.com	TRUE	/	FALSE	1999999999	disname	deleted
+classsup.com	TRUE	/	FALSE	1999999999	d4_is_preview	N
+.classsup.com	TRUE	/	FALSE	1999999999	logincon	deleted
+.classsup.com	TRUE	/	FALSE	1999999999	artist_id	deleted
+.classsup.com	TRUE	/	FALSE	1999999999	shop_language	kor
+.classsup.com	TRUE	/	FALSE	1999999999	basketlinkurl	047010
+
